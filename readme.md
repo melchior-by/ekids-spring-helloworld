@@ -1,0 +1,1 @@
+Simple HelloWorld Spring application for eKIDS displaying basics of backend development. 
